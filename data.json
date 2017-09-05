@@ -1,0 +1,104 @@
+{
+  "shoppingCart": {
+    "countNum": 0,
+    "goods": [
+      {
+        "unchecded": "icon-radio-unchecked",
+        "avatar": "//st.360buyimg.com/order/images/cart5.0/POPshopTitle.png?v=20170814",
+        "businessName": "牧申手机旗舰店",
+        "image": "//img10.360buyimg.com/n7/s176x176_jfs/t5980/97/2362568323/52375/7dbb1827/593e8325N33d05437.jpg!q70.jpg",
+        "title": "苹果 Apple iPhone 6（苹果6） 移动联通电信4G 全网通智能手机 金色 32G 新品",
+        "color": "颜色:金色",
+        "version": "版本:32G 新品",
+        "charge": 2363,
+        "num": 1,
+        "excess": [
+          {
+            "text": "[赠品] 赠品 IPhone 6/6S 防摔壳"
+          },
+          {
+            "text": "[赠品] 赠品 IPhone 6/6S 钢化膜"
+          },
+          {
+            "text": "[赠品] 赠品 ( 图案随机 )手机支架 指环支架 适用于苹果/三星/华为/魅族通用手机支架"
+          }
+        ]
+      },
+      {
+        "unchecded": "icon-radio-unchecked",
+        "avatar": "//st.360buyimg.com/order/images/cart5.0/POPshopTitle.png?v=20170814",
+        "businessName": "昆师傅卫浴旗舰店",
+        "image": "//img10.360buyimg.com/n7/s176x176_jfs/t4048/128/1414654187/331736/12318582/5877390dN51d090a2.jpg!q70.jpg",
+        "title": "昆师傅 现代简约浴室镜子挂墙卫浴镜大号卫生间镜无框拼接粘贴洗手间镜子壁挂黏贴椭圆形梳妆镜 粘贴式安装：配（粘胶+免钉胶) 40*60cm",
+        "color": "颜色:粘贴式安装：配（粘胶+免钉胶)",
+        "version": "尺码:40*60cm",
+        "charge": 40,
+        "num": 1,
+        "excess": [
+          {
+            "text": "[赠品] 免钉胶 大力胶 粘胶式安装配送 【挂钩式不配送请忽略】"
+          },
+          {
+            "text": "[赠品] 易碎品 破损包补发 破损包赔 请勿中差评"
+          },
+          {
+            "text": "[赠品] 海绵胶 双面胶  粘胶式安装配送 【挂钩式不配送请忽略】"
+          }
+        ]
+      },
+      {
+        "unchecded": "icon-radio-unchecked",
+        "avatar": "//st.360buyimg.com/order/images/cart5.0/JDshopTitle.png?v=20170816",
+        "businessName": "京东自营",
+        "image": "//img10.360buyimg.com/n7/s176x176_jfs/t5875/87/66934285/138161/8b6a90e/5915543aNbac06493.jpg!q70.jpg",
+        "title": "松下（Panasonic）EH-WNA3B 电吹风机家用纳米水离子大功率恒温护发",
+        "color": "颜色:纳米离子俏皮粉",
+        "version": "重量:0.8kg",
+        "charge": 599,
+        "num": 1,
+        "excess": [
+          {
+            "text": "[促销] 满2000.00减300.00】"
+          }
+        ]
+      }
+    ]
+  },
+  "address":[
+    {
+      "addressId":"100001",
+      "userName":"海伦",
+      "streetName":"成都市青羊区天府广场",
+      "tel":"123***8901",
+      "isDefault":true
+    },
+    {
+      "addressId":"100002",
+      "userName":"王思思",
+      "streetName":"成都市锦江区春熙路",
+      "tel":"123***8901",
+      "isDefault":false
+    },
+    {
+      "addressId":"100003",
+      "userName":"谢小小",
+      "streetName":"成都市高新区环球中心",
+      "tel":"123***8901",
+      "isDefault":false
+    },
+    {
+      "addressId":"100004",
+      "userName":"琳达",
+      "streetName":"成都市高新区天府软件园",
+      "tel":"123***8901",
+      "isDefault":false
+    },
+    {
+      "addressId":"100005",
+      "userName":"蔡祺祺",
+      "streetName":"成都市高新区华府大道",
+      "tel":"123***8901",
+      "isDefault":false
+    }
+  ]
+}
